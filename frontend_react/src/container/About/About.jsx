@@ -14,18 +14,22 @@ const About = () => {
   return (
     <>
       <h2 className='head-text'>
-        I know That
-        <span> Good App </span>
+        Crafting
+        <span> Stellar Apps </span>
         <br />
-        means
-        <span> Good Business </span>
+        Elevating
+        <span> Business Brilliance! </span>
       </h2>
       <br />
 
       <p className='p-text'>
-        Hello! I'm Avinash and I enjoy creating things that live on the
-        internet. My main focus these days is building accessible, inclusive
-        products and digital experiences at DTCC for a variety of clients.
+        Greetings! I'm Avinash, and my passion lies in crafting digital entities
+        that thrive on the internet. I've honed my skills through enriching
+        experiences at Cognizant, GuardianLife, and DTCC, and I am currently
+        dedicated to shaping accessible and inclusive products, as well as
+        digital experiences at Arcadia. While my professional journey has taken
+        me through diverse environments, my unwavering focus remains on
+        developing solutions that are both impactful and efficient
       </p>
       <div className='app__profiles'>
         {abouts.map((about, index) => (
